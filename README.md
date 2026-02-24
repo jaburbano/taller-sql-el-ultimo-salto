@@ -38,5 +38,3 @@ Cada archivo `.sql` corresponde a la solución de un ejercicio específico.
 1. Abrir la base de datos `tienda.db` en SQLite
 2. Ejecutar cualquier archivo `.sql`
 3. Ver los resultados
-
-## Estructura del repositorio
