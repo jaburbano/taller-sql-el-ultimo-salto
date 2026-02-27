@@ -2,7 +2,7 @@
 
 ## Información del estudiante
 
-Nombre: Alex Burbano  
+Nombre: Javier Alexander Burbano Chaves  
 Programa: Ingeniería Electrónica  
 Universidad: CESMAG  
 
